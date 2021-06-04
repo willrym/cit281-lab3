@@ -7,3 +7,5 @@
 6. Practice creating a Node.js compatible code module using module.exports
 7. Practice importing a Node.js compatible code module using require
 8. Examine code using the spread operator
+
+![Sal](https://static.wikia.nocookie.net/impracticaljokers/images/d/d2/Sal.png/revision/latest/scale-to-width-down/361?cb=20190604013345)
